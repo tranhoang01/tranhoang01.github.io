@@ -28,8 +28,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
+    - name: Cloud Computing
+      tag: CC
     - name: Mobile Programming
       tag: MP
     - name: NLP
