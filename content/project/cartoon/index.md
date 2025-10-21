@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
+title: Restaurant Recommendation
 summary: Write about your project here...
 tags:
-  - CV
+  - MP
 date: 2022-01-01
 external_link: http://github.com
 ---
