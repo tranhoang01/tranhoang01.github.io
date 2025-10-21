@@ -32,8 +32,8 @@ content:
       tag: CC
     - name: Mobile Programming
       tag: MP
-    - name: NLP
-      tag: NLP
+    - name: AI
+      tag: AI
 
 design:
   columns: '1'
