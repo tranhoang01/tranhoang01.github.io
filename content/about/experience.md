@@ -40,7 +40,7 @@ experience:
     company: Personal Interest
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Jeonju, South Korea
     date_start: '2023-09-01'
     date_end: ''
     description: Focused on designing Android applications using Kotlin and MySQL.
