@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Artificial Intelligence
+    company: Deep Learning Enthusiast
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Jeonju, South Korea
+    date_start: '2022-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Interested in:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Machine Learning and Neural Networks
+        * Computer Vision and Natural Language Processing
+        * Applying AI to real-world applications
 
   - title: Professor of Semiconductor Physics
     company: University X
