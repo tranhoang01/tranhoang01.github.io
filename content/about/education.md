@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Education
+title: Career Path
 subtitle:
 
 # Date format for experience
@@ -22,26 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: AI Engineer
+    company: Future Career Goal
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    location: South Korea
+    date_start: '2026'
+    date_end: 'Future'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Artificial Intelligence model development
+        * Data analysis and optimization
+        * Creating intelligent systems for practical use
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: Short-term Goals
+    company: Next 1–2 Years
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    location: JeonBuk National University
+    date_start: '2026'
+    date_end: '2027'
+    description: Completing major projects in AI or app development
 
 design:
   columns: '1'
