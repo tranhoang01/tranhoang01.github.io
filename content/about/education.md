@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: South Korea
-    date_start: '2026'
+    date_start: '2026-08-01'
     date_end: ''
     description: |2-
         * Artificial Intelligence model development
@@ -39,8 +39,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: JeonBuk National University
-    date_start: '2026'
-    date_end: '2027'
+    date_start: '2026-08-01'
+    date_end: '2027-08-01'
     description: Completing major projects in AI or app development
 
 design:
