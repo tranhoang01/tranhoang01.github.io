@@ -36,14 +36,14 @@ experience:
         * Computer Vision and Natural Language Processing
         * Applying AI to real-world applications
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Mobile App Development
+    company: Personal Interest
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2023-09-01'
+    date_end: ''
+    description: Focused on designing Android applications using Kotlin and MySQL.
 
 design:
   columns: '1'
