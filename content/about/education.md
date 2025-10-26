@@ -28,7 +28,7 @@ experience:
     company_logo: org-x
     location: South Korea
     date_start: '2026'
-    date_end: 'Future'
+    date_end: ''
     description: |2-
         * Artificial Intelligence model development
         * Data analysis and optimization
